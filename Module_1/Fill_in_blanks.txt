@@ -1,0 +1,29 @@
+Write true/false, for the following statements.
+1.A tree is cyclic connected graph.
+ans:false
+2.The degree of a vertex is the number of edges incident on it.
+ans:true
+3.Two edges are parallel if they connect the same pair of vertices.
+ans:true
+4.A self-loop is an edge that connects a vertex to itself.
+ans:true
+5.An acyclic graph is a graph with cycles.
+ans:false
+6.The degree of a vertex is the number of incident edges
+ans:true
+
+1.Write all the vertices in ascending order, which are adjacent to vertex 0 ?
+
+ans:(0 1),(0 2),(0 5),(0 6)
+
+2.Write all the vertices in ascending order, which are adjacent to vertex 7 ?
+
+ans:(7 8)
+
+3.Write all the vertices in ascending order, which are adjacent to vertex 9 ?
+
+ans:(9 10),(9 11),(9 12)
+
+4.Write all the vertices in ascending order, which are adjacent to vertex 13 ?
+
+ans: null or (0)
