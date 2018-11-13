@@ -192,6 +192,7 @@ class Solution {
         case "List":
            GraphList listObj = new GraphList(scan);
             System.out.println(listObj);
+	    System.out.println("");
             break;
         case "Matrix":
             GraphMatrix matObj = new GraphMatrix(scan);
