@@ -1,0 +1,42 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+Graph is bipartite
+
+Your Output: 
+Graph is bipartite
+----------------------------------------
+
+########## Testcase 1: Failed ##########
+Expected Output: 
+Graph is bipartite
+
+Your Output: 
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 3
+	at Solution.isBipartite(Solution.java:158)
+	at Solution.main(Solution.java:191)
+----------------------------------------
+
+########## Testcase 2: Passed ##########
+Expected Output: 
+Graph is bipartite
+
+Your Output: 
+Graph is bipartite
+----------------------------------------
+
+########## Testcase 3: Failed ##########
+Expected Output: 
+Graph is not a bipartite
+
+Your Output: 
+Graph is bipartite
+----------------------------------------
+
+########## Testcase 4: Failed ##########
+Expected Output: 
+Graph is not a bipartite
+
+Your Output: 
+Graph is bipartite
+----------------------------------------
+
