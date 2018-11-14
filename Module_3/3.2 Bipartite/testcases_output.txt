@@ -6,14 +6,12 @@ Your Output:
 Graph is bipartite
 ----------------------------------------
 
-########## Testcase 1: Failed ##########
+########## Testcase 1: Passed ##########
 Expected Output: 
 Graph is bipartite
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 3
-	at Solution.isBipartite(Solution.java:158)
-	at Solution.main(Solution.java:191)
+Graph is bipartite
 ----------------------------------------
 
 ########## Testcase 2: Passed ##########
@@ -24,19 +22,19 @@ Your Output:
 Graph is bipartite
 ----------------------------------------
 
-########## Testcase 3: Failed ##########
+########## Testcase 3: Passed ##########
 Expected Output: 
 Graph is not a bipartite
 
 Your Output: 
-Graph is bipartite
+Graph is not a bipartite
 ----------------------------------------
 
-########## Testcase 4: Failed ##########
+########## Testcase 4: Passed ##########
 Expected Output: 
 Graph is not a bipartite
 
 Your Output: 
-Graph is bipartite
+Graph is not a bipartite
 ----------------------------------------
 

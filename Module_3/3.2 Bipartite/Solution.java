@@ -1,4 +1,6 @@
 
+
+
 /*************************************************************************
  *  Compilation:  javac Bag.java
  *  Execution:    java Bag < input.txt
@@ -112,8 +114,6 @@ class Graph
 }
  public class Solution 
  { 
-     final static int V = 4; // No. of Vertices 
-   
      // This function returns true if  
      // graph G[V][V] is Bipartite, else false 
      boolean isBipartite(int G[][],int src) 
@@ -128,8 +128,8 @@ class Graph
          // used to indicate first color 
          // is assigned and value 0 indicates  
          // second color is assigned. 
-         int colorArr[] = new int[V]; 
-         for (int i=0; i<V; ++i) 
+         int colorArr[] = new int[G.length]; 
+         for (int i=0; i<G.length; ++i) 
              colorArr[i] = -1; 
    
          // Assign first color to source 
@@ -151,7 +151,7 @@ class Graph
                  return false;  
    
              // Find all non-colored adjacent vertices 
-             for (int v=0; v<V; ++v) 
+             for (int v=0; v<G.length; ++v) 
              { 
                  // An edge from u to v exists  
                  // and destination v is not colored 
@@ -187,7 +187,7 @@ class Graph
     		 gp.addEdge(Integer.parseInt(s2[0]),Integer.parseInt(s2[1]));
     		 
     	 } 
-    	// System.out.println("hello");
+    	 //System.out.println("hello");
          if (b.isBipartite(gp.matrix, 0)) 
         	 System.out.println("Graph is bipartite"); 
          else
