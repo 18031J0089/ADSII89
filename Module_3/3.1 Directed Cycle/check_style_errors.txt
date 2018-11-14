@@ -30,7 +30,6 @@ Starting audit...
 Audit done.
 Checkstyle ends with 28 errors.
 Starting audit...
-[ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Cycle.java:1:9: Name 'Module_3' must match pattern '^[a-z]+(\.[a-zA-Z_][a-zA-Z0-9_]*)*$'. [PackageName]
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Cycle.java:3: Line has trailing spaces. [RegexpSingleline]
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Cycle.java:4: Line has trailing spaces. [RegexpSingleline]
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Cycle.java:6: Line has trailing spaces. [RegexpSingleline]
@@ -162,7 +161,7 @@ Starting audit...
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Cycle.java:96: Line has trailing spaces. [RegexpSingleline]
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Cycle.java:97: Line has trailing spaces. [RegexpSingleline]
 Audit done.
-Checkstyle ends with 131 errors.
+Checkstyle ends with 130 errors.
 Starting audit...
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Stack.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] F:\MSIT\github\ADSII89\Module_3\3.1 Directed Cycle\Stack.java:7: Line has trailing spaces. [RegexpSingleline]
