@@ -1,0 +1,72 @@
+########## Testcase 0: Failed ##########
+Expected Output: 
+Cycle doesn't exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 1: Failed ##########
+Expected Output: 
+Cycle doesn't exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 2: Failed ##########
+Expected Output: 
+Cycle exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 3: Failed ##########
+Expected Output: 
+Cycle exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 4: Failed ##########
+Expected Output: 
+Cycle exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 5: Failed ##########
+Expected Output: 
+Cycle exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 6: Failed ##########
+Expected Output: 
+Cycle doesn't exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
+########## Testcase 7: Failed ##########
+Expected Output: 
+Cycle exists.
+
+Your Output: 
+Error: Could not find or load main class Cycle
+Caused by: java.lang.NoClassDefFoundError: Module_3/Cycle (wrong name: Cycle)
+----------------------------------------
+
