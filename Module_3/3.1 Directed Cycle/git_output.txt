@@ -1,0 +1,8 @@
+[master 387a9eb] "ads2_m3_a1_1: 8/8 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 6 files changed, 68 insertions(+), 75 deletions(-)
+ create mode 100644 Module_3/3.1 Directed Cycle/md5/score.txt
+ create mode 100644 Module_3/3.1 Directed Cycle/result/score.json
+ rewrite Module_3/3.1 Directed Cycle/testcases_output.txt (64%)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/18031J0089/ADSII89.git
+   98ca402..387a9eb  master -> master

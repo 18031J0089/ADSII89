@@ -1,0 +1,8 @@
+[master d3c7a24] "ads2_m3_a2_1: 5/5 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ rewrite Module_3/3.2 Bipartite/result/score.json (74%)
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/18031J0089/ADSII89.git
+   71867c7..d3c7a24  master -> master
