@@ -3,8 +3,9 @@ Expected Output:
 614708.00000
 
 Your Output: 
-Error: Could not find or load main class Sample
-Caused by: java.lang.NoClassDefFoundError: Module_6/Sample (wrong name: Sample)
+Error: Main method not found in class Sample, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -12,8 +13,9 @@ Expected Output:
 1.81000
 
 Your Output: 
-Error: Could not find or load main class Sample
-Caused by: java.lang.NoClassDefFoundError: Module_6/Sample (wrong name: Sample)
+Error: Main method not found in class Sample, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -21,8 +23,9 @@ Expected Output:
 10.46351
 
 Your Output: 
-Error: Could not find or load main class Sample
-Caused by: java.lang.NoClassDefFoundError: Module_6/Sample (wrong name: Sample)
+Error: Main method not found in class Sample, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -30,8 +33,9 @@ Expected Output:
 37.00000
 
 Your Output: 
-Error: Could not find or load main class Sample
-Caused by: java.lang.NoClassDefFoundError: Module_6/Sample (wrong name: Sample)
+Error: Main method not found in class Sample, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -39,8 +43,9 @@ Expected Output:
 19.00000
 
 Your Output: 
-Error: Could not find or load main class Sample
-Caused by: java.lang.NoClassDefFoundError: Module_6/Sample (wrong name: Sample)
+Error: Main method not found in class Sample, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -48,7 +53,8 @@ Expected Output:
 2.00000
 
 Your Output: 
-Error: Could not find or load main class Sample
-Caused by: java.lang.NoClassDefFoundError: Module_6/Sample (wrong name: Sample)
+Error: Main method not found in class Sample, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
 ----------------------------------------
 
