@@ -1,0 +1,8 @@
+[master 962897c] "ads2_m7_a1_1: 0/6 testcases passed. Cannot run hidden testcases as Server is unreachablecheck_style score: 0/1 "
+ 8 files changed, 76 insertions(+), 70 deletions(-)
+ rewrite Module_7/1. MST/Sample.class (72%)
+ create mode 100644 Module_7/1. MST/md5/score.txt
+ create mode 100644 Module_7/1. MST/result/score.json
+Logon failed, use ctrl+c to cancel basic credential prompt.
+remote: Anonymous access to 18031J0089/ADSII89.git denied.
+fatal: Authentication failed for 'https://github.com/18031J0089/ADSII89.git/'

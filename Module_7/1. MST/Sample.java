@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-public class Sample {
+ public class Sample {
 	static class Edge {
 		int source;
 		int destination;
@@ -79,7 +79,6 @@ public class Sample {
 			}
 		}
 	}
-
 	public static void main(String args) {
 		Scanner scn = new Scanner(System.in);
 		String s1 = scn.nextLine();
